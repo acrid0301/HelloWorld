@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHelloWorld.Console", "RNanoHelloWorld\RNanoHelloWorld.Console.csproj", "{1923DA0B-25F7-4F42-A87E-79FE7EAD195D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHelloApi", "RNanoHelloApi\RNanoHelloApi.csproj", "{ECC98B9D-5EE7-4E32-805B-052BED47A754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHelloApi.Tests", "RNanoHelloApi.Tests\RNanoHelloApi.Tests.csproj", "{B1546502-D622-4096-939B-50AFA1F8B909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHello.Data", "RNanoHello.Data\RNanoHello.Data.csproj", "{BD0FEC5C-0166-4EA8-B095-A28CDADC3905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHello.Model", "RNanoHello.Model\RNanoHello.Model.csproj", "{99733025-F9BD-4315-9534-F8E1DCCAEC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNanoHello.Service", "RNanoHello.Service\RNanoHello.Service.csproj", "{599D9401-E506-4778-BE12-8DBB70FD7937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1923DA0B-25F7-4F42-A87E-79FE7EAD195D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1923DA0B-25F7-4F42-A87E-79FE7EAD195D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1923DA0B-25F7-4F42-A87E-79FE7EAD195D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1923DA0B-25F7-4F42-A87E-79FE7EAD195D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC98B9D-5EE7-4E32-805B-052BED47A754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC98B9D-5EE7-4E32-805B-052BED47A754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC98B9D-5EE7-4E32-805B-052BED47A754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC98B9D-5EE7-4E32-805B-052BED47A754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1546502-D622-4096-939B-50AFA1F8B909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1546502-D622-4096-939B-50AFA1F8B909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1546502-D622-4096-939B-50AFA1F8B909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1546502-D622-4096-939B-50AFA1F8B909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0FEC5C-0166-4EA8-B095-A28CDADC3905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0FEC5C-0166-4EA8-B095-A28CDADC3905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0FEC5C-0166-4EA8-B095-A28CDADC3905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0FEC5C-0166-4EA8-B095-A28CDADC3905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99733025-F9BD-4315-9534-F8E1DCCAEC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99733025-F9BD-4315-9534-F8E1DCCAEC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99733025-F9BD-4315-9534-F8E1DCCAEC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99733025-F9BD-4315-9534-F8E1DCCAEC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599D9401-E506-4778-BE12-8DBB70FD7937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599D9401-E506-4778-BE12-8DBB70FD7937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599D9401-E506-4778-BE12-8DBB70FD7937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599D9401-E506-4778-BE12-8DBB70FD7937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

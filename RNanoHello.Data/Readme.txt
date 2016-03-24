@@ -1,0 +1,1 @@
+﻿//This project library will handle all data transaction using Entity Framework
